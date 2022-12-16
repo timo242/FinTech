@@ -3,9 +3,8 @@
 
 ![image](stock.png)
 
-I am Viswa  hello
 
-
+This is a test of the laptop
 
 
 
